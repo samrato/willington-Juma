@@ -1,8 +1,8 @@
 /* Color variables */
 :root {
   --white-color: #fff;
-  --bg-color: #fff;
-  --gray-color: #ccc;
+  --bg-color: hsl(0, 0%, 100%);
+  --gray-color: #a19999;
 }
 
 /* Changing background color */
