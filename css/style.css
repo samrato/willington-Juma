@@ -1,13 +1,13 @@
 /* Color variables */
 :root {
   --white-color: #fff;
-  --bg-color: #fff;
-  --gray-color: #ccc;
+  --bg-color: hsl(0, 0%, 100%);
+  --gray-color: #a19999;
 }
 
 /* Changing background color */
 body {
-  background: var(--bg-color) !important;
+  background: var(--gray-color) !important;
 }
 
 /* Changing link color */
@@ -18,7 +18,7 @@ body {
 /* Hero section background image */
 .hero {
   height: 100vh;
-  background-image: url("../images/home-bg.jpg");
+  background-image: url("../images/WhatsApp\ Image\ 2025-02-25\ at\ 8.33.20\ PM.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
